@@ -15,7 +15,7 @@ Parameters:
     Type: String
 
   PublicSubnetBId:
-    Default: "subnet-05990c77cc8bf62a8"
+    Default: "subnet-"
     Description: The ID of the public subnet in AZ 2
     Type: String
 
